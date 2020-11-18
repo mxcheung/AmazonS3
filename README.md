@@ -29,6 +29,6 @@ http://scubasyndrome-835424530591.s3-website-us-east-1.amazonaws.com/
 
 ![alt text1](https://github.com/mxcheung/AmazonS3/blob/main/LabDiagram.jpg)
 
-![alt text2](https://github.com/mxcheung/AmazonS3/LabDiagram.jpg)
+![alt text2](https://github.com/mxcheung/AmazonS3/Lab-Diagram.jpg)
 
 
