@@ -21,13 +21,6 @@ https://github.com/ACloudGuru-Resources/Course-Certified-Solutions-Architect-Ass
   }]
 }
 
-
-
 http://scubasyndrome-835424530591.s3-website-us-east-1.amazonaws.com/
 
-)
-
 ![Lab Diagram](https://github.com/mxcheung/AmazonS3/blob/main/Lab-Diagram.jpg)
-
-
-
